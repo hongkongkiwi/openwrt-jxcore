@@ -1,0 +1,3 @@
+[submodule "jxcore"]
+	path = jxcore
+	url = git@github.com:hongkongkiwi/jxcore.git
